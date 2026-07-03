@@ -33,9 +33,9 @@ The goal is to build practical **SOC analyst skills** in network forensics.
 3. **Ping Flood (ICMP Flood)**
    ```bash
    ping <target_IP> -f
-4. **HTTP POST with Credentials**
+4. **Malware Traffic**
    ```bash
-   curl http://<target_IP> --data "username=admin&password=1234"
+   curl https://secure.eicar.org/eicar.com.txt -o eicar.com
 
 
    
